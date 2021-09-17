@@ -1,0 +1,8 @@
+{
+	"name": "damage-typer",
+	"title": "Damage Typer 5E - Custom Damage Types and Compatibilities.",
+	"description": "A simple damage type editor for 5E including resistances, immunities, and weaknesses.",
+	"author": "SKAROT",
+	"version": "0.1.A",
+	"minumumCoreVersion": "0.8.0"
+}
